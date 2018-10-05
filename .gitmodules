@@ -1,0 +1,6 @@
+[submodule "psp_lab_2"]
+	path = psp_lab_2
+	url = https://github.com/AlarikaRoderick/psp-labs.git
+[submodule "psp_lab_3_part_1"]
+	path = psp_lab_3_part_1
+	url = https://github.com/AlarikaRoderick/psp-labs.git

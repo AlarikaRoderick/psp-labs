@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e941b82c-14cc-4058-8c5d-aaee85a2a2f8" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Human.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Human.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/parents/Parent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teenager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/teenager/Teenager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Child.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/child/Child.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1388#1389#0" expanded="true" />
+                <element signature="e#1420#1421#0" expanded="true" />
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1509#1510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mother.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/parents/Mother.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/com.company.child.Child" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/com.company.child.Child">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.company.child.Child</OriginalElement>
+              <nodes>
+                <node x="453.75" y="0.0">com.company.interfaces.Object</node>
+                <node x="550.8988095238095" y="132.0">com.company.child.Child</node>
+                <node x="253.99999999999997" y="377.0">com.company.parents.Father</node>
+                <node x="155.89880952380952" y="132.0">com.company.parents.Parent</node>
+                <node x="0.0" y="377.0">com.company.parents.Mother</node>
+                <node x="231.74999999999997" y="0.0">com.company.interfaces.Human</node>
+                <node x="328.8988095238095" y="121.0">com.company.teenager.Teenager</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.company.child.Child" target="com.company.interfaces.Object">
+                  <point x="50.5" y="-92.0" />
+                  <point x="702.3988095238095" y="71.0" />
+                  <point x="587.9166666666666" y="71.0" />
+                  <point x="53.66666666666666" y="25.5" />
+                </edge>
+                <edge source="com.company.parents.Parent" target="com.company.interfaces.Object">
+                  <point x="38.25000000000003" y="-92.0" />
+                  <point x="270.6488095238095" y="91.0" />
+                  <point x="480.5833333333333" y="91.0" />
+                  <point x="-53.666666666666664" y="25.5" />
+                </edge>
+                <edge source="com.company.teenager.Teenager" target="com.company.interfaces.Human">
+                  <point x="-50.5" y="-103.0" />
+                  <point x="379.3988095238095" y="81.0" />
+                  <point x="332.74999999999994" y="81.0" />
+                  <point x="-1.4210854715202004E-14" y="25.5" />
+                </edge>
+                <edge source="com.company.parents.Mother" target="com.company.parents.Parent">
+                  <point x="0.0" y="-59.0" />
+                  <point x="117.0" y="352.0" />
+                  <point x="194.14880952380952" y="352.0" />
+                  <point x="-38.25" y="92.0" />
+                </edge>
+                <edge source="com.company.parents.Father" target="com.company.parents.Parent">
+                  <point x="0.0" y="-59.0" />
+                  <point x="355.0" y="352.0" />
+                  <point x="270.6488095238095" y="352.0" />
+                  <point x="38.25000000000003" y="92.0" />
+                </edge>
+                <edge source="com.company.parents.Parent" target="com.company.interfaces.Human">
+                  <point x="-38.24999999999997" y="-92.0" />
+                  <point x="194.14880952380955" y="101.0" />
+                  <point x="265.41666666666663" y="101.0" />
+                  <point x="-67.33333333333333" y="25.5" />
+                </edge>
+                <edge source="com.company.teenager.Teenager" target="com.company.interfaces.Object">
+                  <point x="50.5" y="-103.0" />
+                  <point x="480.3988095238095" y="101.0" />
+                  <point x="534.25" y="101.0" />
+                  <point x="0.0" y="25.5" />
+                </edge>
+                <edge source="com.company.child.Child" target="com.company.interfaces.Human">
+                  <point x="-50.5" y="-92.0" />
+                  <point x="601.3988095238095" y="81.0" />
+                  <point x="400.08333333333326" y="81.0" />
+                  <point x="67.33333333333331" y="25.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.016740688921137" x="216.04838737659242" y="195.04838737659242" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Father.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/parents/Father.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/model/Object.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/Parent.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/Mother.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/Human.java" />
+        <option value="$PROJECT_DIR$/src/com/company/parents/Parent.java" />
+        <option value="$PROJECT_DIR$/src/com/company/teenager/Teenager.java" />
+        <option value="$PROJECT_DIR$/src/com/company/child/Child.java" />
+        <option value="$PROJECT_DIR$/src/com/company/parents/Father.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/parents/Mother.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="child" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="parents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psp-lab-3-part-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="psp-lab-3-part-2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="teenager" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="psp-lab-3-part-2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e941b82c-14cc-4058-8c5d-aaee85a2a2f8" name="Default" comment="" />
+      <created>1537270379443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537270379443</updated>
+      <workItem from="1537270381725" duration="1269000" />
+      <workItem from="1537419878674" duration="5013000" />
+      <workItem from="1538210795183" duration="3412000" />
+      <workItem from="1538583507104" duration="3273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32756132" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.260574" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/teenager/Teenager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/child/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1509#1510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.child.Child">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.child.Child</OriginalElement>
+          <nodes>
+            <node x="453.75" y="0.0">com.company.interfaces.Object</node>
+            <node x="550.8988095238095" y="132.0">com.company.child.Child</node>
+            <node x="253.99999999999997" y="377.0">com.company.parents.Father</node>
+            <node x="155.89880952380952" y="132.0">com.company.parents.Parent</node>
+            <node x="0.0" y="377.0">com.company.parents.Mother</node>
+            <node x="231.74999999999997" y="0.0">com.company.interfaces.Human</node>
+            <node x="328.8988095238095" y="121.0">com.company.teenager.Teenager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.child.Child" target="com.company.interfaces.Object">
+              <point x="50.5" y="-92.0" />
+              <point x="702.3988095238095" y="71.0" />
+              <point x="587.9166666666666" y="71.0" />
+              <point x="53.66666666666666" y="25.5" />
+            </edge>
+            <edge source="com.company.parents.Parent" target="com.company.interfaces.Object">
+              <point x="38.25000000000003" y="-92.0" />
+              <point x="270.6488095238095" y="91.0" />
+              <point x="480.5833333333333" y="91.0" />
+              <point x="-53.666666666666664" y="25.5" />
+            </edge>
+            <edge source="com.company.teenager.Teenager" target="com.company.interfaces.Human">
+              <point x="-50.5" y="-103.0" />
+              <point x="379.3988095238095" y="81.0" />
+              <point x="332.74999999999994" y="81.0" />
+              <point x="-1.4210854715202004E-14" y="25.5" />
+            </edge>
+            <edge source="com.company.parents.Mother" target="com.company.parents.Parent">
+              <point x="0.0" y="-59.0" />
+              <point x="117.0" y="352.0" />
+              <point x="194.14880952380952" y="352.0" />
+              <point x="-38.25" y="92.0" />
+            </edge>
+            <edge source="com.company.parents.Father" target="com.company.parents.Parent">
+              <point x="0.0" y="-59.0" />
+              <point x="355.0" y="352.0" />
+              <point x="270.6488095238095" y="352.0" />
+              <point x="38.25000000000003" y="92.0" />
+            </edge>
+            <edge source="com.company.parents.Parent" target="com.company.interfaces.Human">
+              <point x="-38.24999999999997" y="-92.0" />
+              <point x="194.14880952380955" y="101.0" />
+              <point x="265.41666666666663" y="101.0" />
+              <point x="-67.33333333333333" y="25.5" />
+            </edge>
+            <edge source="com.company.teenager.Teenager" target="com.company.interfaces.Object">
+              <point x="50.5" y="-103.0" />
+              <point x="480.3988095238095" y="101.0" />
+              <point x="534.25" y="101.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.company.child.Child" target="com.company.interfaces.Human">
+              <point x="-50.5" y="-92.0" />
+              <point x="601.3988095238095" y="81.0" />
+              <point x="400.08333333333326" y="81.0" />
+              <point x="67.33333333333331" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.016740688921137" x="216.04838737659242" y="195.04838737659242" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="51" column="1" lean-forward="true" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/teenager/Teenager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/child/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1509#1510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.child.Child">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.child.Child</OriginalElement>
+          <nodes>
+            <node x="231.74999999999997" y="0.0">com.company.model.Human</node>
+            <node x="328.8988095238095" y="132.0">com.company.child.Child</node>
+            <node x="253.99999999999997" y="355.0">com.company.parents.Father</node>
+            <node x="155.89880952380952" y="121.0">com.company.parents.Parent</node>
+            <node x="0.0" y="355.0">com.company.parents.Mother</node>
+            <node x="550.8988095238095" y="121.0">com.company.teenager.Teenager</node>
+            <node x="453.75" y="0.0">com.company.model.Object</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.teenager.Teenager" target="com.company.model.Object">
+              <point x="50.5" y="-92.0" />
+              <point x="702.3988095238095" y="71.0" />
+              <point x="587.9166666666666" y="71.0" />
+              <point x="53.66666666666663" y="25.5" />
+            </edge>
+            <edge source="com.company.parents.Mother" target="com.company.parents.Parent">
+              <point x="0.0" y="-59.0" />
+              <point x="117.0" y="330.0" />
+              <point x="194.14880952380952" y="330.0" />
+              <point x="-38.25" y="92.0" />
+            </edge>
+            <edge source="com.company.parents.Parent" target="com.company.model.Object">
+              <point x="38.25" y="-92.0" />
+              <point x="270.6488095238095" y="91.0" />
+              <point x="480.58333333333326" y="91.0" />
+              <point x="-53.666666666666686" y="25.5" />
+            </edge>
+            <edge source="com.company.child.Child" target="com.company.model.Object">
+              <point x="50.5" y="-81.0" />
+              <point x="480.3988095238095" y="101.0" />
+              <point x="534.25" y="101.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.company.teenager.Teenager" target="com.company.model.Human">
+              <point x="-50.5" y="-92.0" />
+              <point x="601.3988095238095" y="81.0" />
+              <point x="400.08333333333326" y="81.0" />
+              <point x="67.33333333333326" y="25.5" />
+            </edge>
+            <edge source="com.company.parents.Father" target="com.company.parents.Parent">
+              <point x="0.0" y="-59.0" />
+              <point x="355.0" y="330.0" />
+              <point x="270.6488095238095" y="330.0" />
+              <point x="38.25" y="92.0" />
+            </edge>
+            <edge source="com.company.parents.Parent" target="com.company.model.Human">
+              <point x="-38.25" y="-92.0" />
+              <point x="194.14880952380952" y="101.0" />
+              <point x="265.41666666666663" y="101.0" />
+              <point x="-67.33333333333331" y="25.5" />
+            </edge>
+            <edge source="com.company.child.Child" target="com.company.model.Human">
+              <point x="-50.5" y="-81.0" />
+              <point x="379.3988095238095" y="81.0" />
+              <point x="332.75" y="81.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9775178328804348" x="246.0" y="190.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-psp-lab-3-part-2">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-psp-lab-3-part-2</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-psp-lab-3-part-2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="97.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/child/Child.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1420#1421#0" expanded="true" />
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1509#1510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/teenager/Teenager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/parents/Mother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.company.child.Child">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.company.child.Child</OriginalElement>
+          <nodes>
+            <node x="453.75" y="0.0">com.company.interfaces.Object</node>
+            <node x="550.8988095238095" y="132.0">com.company.child.Child</node>
+            <node x="253.99999999999997" y="377.0">com.company.parents.Father</node>
+            <node x="155.89880952380952" y="132.0">com.company.parents.Parent</node>
+            <node x="0.0" y="377.0">com.company.parents.Mother</node>
+            <node x="231.74999999999997" y="0.0">com.company.interfaces.Human</node>
+            <node x="328.8988095238095" y="121.0">com.company.teenager.Teenager</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.company.child.Child" target="com.company.interfaces.Object">
+              <point x="50.5" y="-92.0" />
+              <point x="702.3988095238095" y="71.0" />
+              <point x="587.9166666666666" y="71.0" />
+              <point x="53.66666666666666" y="25.5" />
+            </edge>
+            <edge source="com.company.parents.Parent" target="com.company.interfaces.Object">
+              <point x="38.25000000000003" y="-92.0" />
+              <point x="270.6488095238095" y="91.0" />
+              <point x="480.5833333333333" y="91.0" />
+              <point x="-53.666666666666664" y="25.5" />
+            </edge>
+            <edge source="com.company.teenager.Teenager" target="com.company.interfaces.Human">
+              <point x="-50.5" y="-103.0" />
+              <point x="379.3988095238095" y="81.0" />
+              <point x="332.74999999999994" y="81.0" />
+              <point x="-1.4210854715202004E-14" y="25.5" />
+            </edge>
+            <edge source="com.company.parents.Mother" target="com.company.parents.Parent">
+              <point x="0.0" y="-59.0" />
+              <point x="117.0" y="352.0" />
+              <point x="194.14880952380952" y="352.0" />
+              <point x="-38.25" y="92.0" />
+            </edge>
+            <edge source="com.company.parents.Father" target="com.company.parents.Parent">
+              <point x="0.0" y="-59.0" />
+              <point x="355.0" y="352.0" />
+              <point x="270.6488095238095" y="352.0" />
+              <point x="38.25000000000003" y="92.0" />
+            </edge>
+            <edge source="com.company.parents.Parent" target="com.company.interfaces.Human">
+              <point x="-38.24999999999997" y="-92.0" />
+              <point x="194.14880952380955" y="101.0" />
+              <point x="265.41666666666663" y="101.0" />
+              <point x="-67.33333333333333" y="25.5" />
+            </edge>
+            <edge source="com.company.teenager.Teenager" target="com.company.interfaces.Object">
+              <point x="50.5" y="-103.0" />
+              <point x="480.3988095238095" y="101.0" />
+              <point x="534.25" y="101.0" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="com.company.child.Child" target="com.company.interfaces.Human">
+              <point x="-50.5" y="-92.0" />
+              <point x="601.3988095238095" y="81.0" />
+              <point x="400.08333333333326" y="81.0" />
+              <point x="67.33333333333331" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.016740688921137" x="216.04838737659242" y="195.04838737659242" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interfaces/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
